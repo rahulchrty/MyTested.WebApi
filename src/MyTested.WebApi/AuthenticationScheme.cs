@@ -32,6 +32,8 @@ namespace MyTested.WebApi
         /// <summary>
         /// Negotiate authenticated header scheme.
         /// </summary>
-        Negotiate
+        Negotiate,
+
+        NonNegotiate
     }
 }
